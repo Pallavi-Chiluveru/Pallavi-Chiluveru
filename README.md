@@ -42,15 +42,15 @@ and exploring AI & Machine Learning with Python.
 </a>
 
 <a href="https://www.codechef.com/users/next_wisp_18" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" height="50"/>
+<img src="https://cdn.simpleicons.org/codechef" height="50" />
 </a>
 
 <a href="https://leetcode.com/u/pallavichiluveru" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="50"/>
+<img src="https://cdn.simpleicons.org/leetcode" height="50" 
 </a>
 
 <a href="https://www.geeksforgeeks.org/profile/pallavichibfwk" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/geeksforgeeks.svg" height="50"/>
+<img src="https://cdn.simpleicons.org/geeksforgeeks" height="50" />
 </a>
 
 </p>
