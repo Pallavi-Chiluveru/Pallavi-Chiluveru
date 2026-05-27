@@ -1,11 +1,14 @@
                              
 
-Hi, I'm **Pallavi**, a passionate B.Tech Information Technology student at Anurag University.  
-I enjoy building MERN Stack projects, practicing DSA, and exploring AI & Machine Learning with Python.  
-I'm always excited to learn new technologies, collaborate on innovative projects, and improve my problem-solving skills every day.
+<h1 align="center">Hi 👋, I'm Pallavi</h1>
+<h3 align="center">B.Tech IT Student | MERN Developer | AI & ML Enthusiast</h3>
 
-Apart from tech, I enjoy yoga, reading, listening to music, peaceful walks, and spending time helping my mom 💖
+<p align="center">
+Passionate about building real-world web applications, solving problems through DSA, 
+and exploring AI & Machine Learning with Python.
+</p>
 
+<hr>
    
 # 💫 About Me:
 🔭 I’m currently working on MERN Stack projects and improving my DSA skills<br><br>👯 I’m looking to collaborate on Web Development, DSA, and AI/ML related projects<br><br>🤝 I’m looking for help with advanced DSA, backend development, and AI technologies<br><br>🌱 I’m currently learning Data Structures & Algorithms, Machine Learning with Python, and modern AI tools<br><br>💬 Ask me about MERN Stack, Python, DSA, and beginner AI/ML concepts<br><br>⚡ Fun fact: I love learning new technologies, doing yoga, listening to music, and going on peaceful walks
