@@ -38,7 +38,7 @@ and exploring AI & Machine Learning with Python.
 </a>
 
 <a href="https://www.hackerrank.com/profile/pallavichiluver4" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" height="50"/>
+<img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="50" />
 </a>
 
 <a href="https://www.codechef.com/users/next_wisp_18" target="_blank">
