@@ -1,5 +1,10 @@
-                               <h1 align="center">Hi 👋, I'm Pallavi</h1>
-<h3 align="center">A passionate IT student and aspiring AI/ML Developer from Anurag University</h3>
+                             
+
+Hi, I'm **Pallavi**, a passionate B.Tech Information Technology student at Anurag University.  
+I enjoy building MERN Stack projects, practicing DSA, and exploring AI & Machine Learning with Python.  
+I'm always excited to learn new technologies, collaborate on innovative projects, and improve my problem-solving skills every day.
+
+Apart from tech, I enjoy yoga, reading, listening to music, peaceful walks, and spending time helping my mom 💖
 
    
 # 💫 About Me:
