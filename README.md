@@ -12,7 +12,8 @@ and exploring AI & Machine Learning with Python.
    
 # 💫 About Me:
 🔭 I’m currently working on MERN Stack projects and improving my DSA skills<br><br>👯 I’m looking to collaborate on Web Development, DSA, and AI/ML related projects<br><br>🤝 I’m looking for help with advanced DSA, backend development, and AI technologies<br><br>🌱 I’m currently learning Data Structures & Algorithms, Machine Learning with Python, and modern AI tools<br><br>💬 Ask me about MERN Stack, Python, DSA, and beginner AI/ML concepts<br><br>⚡ Fun fact: I love learning new technologies, doing yoga, listening to music, and going on peaceful walks
-
+<hr>
+<p>       Passionate about building scalable MERN applications, solving complex problems through DSA, and leveraging AI & Machine Learning to create real-world impact.</p>
 
 ## 🌐 Connect With Me
 
