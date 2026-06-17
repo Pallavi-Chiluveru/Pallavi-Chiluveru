@@ -89,10 +89,11 @@
 
 
 # 📊 GitHub Stats:
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)<br>
+
 ![](https://github-readme-stats.shion.dev/api?username=Pallavi-Chiluveru&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Pallavi-Chiluveru&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Pallavi-Chiluveru&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
 [![](https://komarev.com/ghpvc/?username=Pallavi-Chiluveru&icon=0&color=0)](https://visitcount.itsvg.in)
