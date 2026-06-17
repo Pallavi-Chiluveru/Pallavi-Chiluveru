@@ -89,7 +89,7 @@
 
 
 # 📊 GitHub Stats:
-                              ![](https://streak-stats.demolab.com/?user=Pallavi-Chiluveru&theme=dark&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=Pallavi-Chiluveru&theme=dark&hide_border=false)
 
 [![](https://komarev.com/ghpvc/?username=Pallavi-Chiluveru&icon=0&color=0)](https://visitcount.itsvg.in)
 
