@@ -95,5 +95,35 @@
 
 ---
 [![](https://komarev.com/ghpvc/?username=Pallavi-Chiluveru&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🔥 Contribution Highlights
 
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🚀 Contributions
+Building impactful projects
+
+</td>
+
+<td align="center" width="33%">
+
+### 🔥 Current Streak
+Coding consistently every day
+
+</td>
+
+<td align="center" width="33%">
+
+### 🏆 Longest Streak
+Dedicated to continuous learning
+
+</td>
+
+</tr>
+</table>
+
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
