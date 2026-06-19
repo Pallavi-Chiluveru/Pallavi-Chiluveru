@@ -98,6 +98,12 @@
 
 ![](https://github-readme-stats.shion.dev/api?username=Pallavi-Chiluveru&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 <hr>
-## 🐍 Contribution Snake
+## 📈 Contribution Activity
 
-![Snake animation](https://raw.githubusercontent.com/Pallavi-Chiluveru/Pallavi-Chiluveru/output/github-contribution-grid-snake.svg)---
+[![Pallavi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pallavi-Chiluveru&theme=react-dark)](https://github.com/Pallavi-Chiluveru)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pallavi-Chiluveru&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Pallavi-Chiluveru&theme=tokyonight)
