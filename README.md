@@ -100,5 +100,4 @@
 <hr>
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/Pallavi-Chiluveru/Pallavi-Chiluveru/blob/output/github-contribution-grid-snake.svg)
----
+![Snake animation](https://raw.githubusercontent.com/Pallavi-Chiluveru/Pallavi-Chiluveru/output/github-contribution-grid-snake.svg)---
