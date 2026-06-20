@@ -44,7 +44,7 @@
 </a>
 
 <a href="https://www.youtube.com/@PallaviChiluveru" target="_blank">
-  <img src="https://skillicons.dev/icons?i=youtube" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" height="50" />
 </a>
 
 <a href="https://www.instagram.com/pallavichiluveru" target="_blank">
