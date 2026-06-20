@@ -43,6 +43,9 @@
 <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
 </a>
 
+<a href="https://www.youtube.com/@PallaviChiluveru" target="_blank">
+  <img src="https://skillicons.dev/icons?i=youtube" height="50" />
+</a>
 
 <a href="https://www.instagram.com/pallavichiluveru" target="_blank">
 <img src="https://skillicons.dev/icons?i=instagram" height="50" />
