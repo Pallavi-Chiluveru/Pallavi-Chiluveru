@@ -38,61 +38,49 @@
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/pallavi-chiluveru" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+<p align="center">
+
+<a href="https://www.linkedin.com/in/pallavi-chiluveru" target="_blank" style="margin-right:12px;">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55" />
 </a>
 
- <a href="https://www.youtube.com/@PallaviChiluveru">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-
-
-<a href="https://www.instagram.com/pallavichiluveru" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="50" />
+<a href="https://www.youtube.com/@PallaviChiluveru" target="_blank" style="margin-right:12px;">
+<img src="https://cdn.simpleicons.org/youtube/FF0000" height="55" />
 </a>
 
-
-<a href="https://github.com/Pallavi-Chiluveru" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="50" />
+<a href="https://www.instagram.com/pallavichiluveru" target="_blank" style="margin-right:12px;">
+<img src="https://skillicons.dev/icons?i=instagram" height="55" />
 </a>
 
-
-
-<a href="mailto:pallavichiluveru537@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50" />
+<a href="https://github.com/Pallavi-Chiluveru" target="_blank" style="margin-right:12px;">
+<img src="https://skillicons.dev/icons?i=github" height="55" />
 </a>
 
-
-
-<a href="https://discord.com/users/chiluverupallavi_537" target="_blank">
-<img src="https://skillicons.dev/icons?i=discord" height="50" />
+<a href="mailto:pallavichiluveru537@gmail.com" style="margin-right:12px;">
+<img src="https://skillicons.dev/icons?i=gmail" height="55" />
 </a>
 
-
-
-<a href="https://www.hackerrank.com/profile/pallavichiluver4" target="_blank">
-<img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="50" />
+<a href="https://discord.com/users/chiluverupallavi_537" target="_blank" style="margin-right:12px;">
+<img src="https://skillicons.dev/icons?i=discord" height="55" />
 </a>
 
-
-
-<a href="https://www.codechef.com/users/next_wisp_18" target="_blank">
-<img src="https://cdn.simpleicons.org/codechef" height="50" />
+<a href="https://www.hackerrank.com/profile/pallavichiluver4" target="_blank" style="margin-right:12px;">
+<img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="55" />
 </a>
 
-
-
-<a href="https://leetcode.com/u/pallavichiluveru" target="_blank">
-<img src="https://cdn.simpleicons.org/leetcode" height="50" 
+<a href="https://www.codechef.com/users/next_wisp_18" target="_blank" style="margin-right:12px;">
+<img src="https://cdn.simpleicons.org/codechef" height="55" />
 </a>
 
-
+<a href="https://leetcode.com/u/pallavichiluveru" target="_blank" style="margin-right:12px;">
+<img src="https://cdn.simpleicons.org/leetcode" height="55" />
+</a>
 
 <a href="https://www.geeksforgeeks.org/profile/pallavichibfwk" target="_blank">
-<img src="https://cdn.simpleicons.org/geeksforgeeks" height="50" />
+<img src="https://cdn.simpleicons.org/geeksforgeeks" height="55" />
 </a>
 
+</p>
 
 
 </p>
