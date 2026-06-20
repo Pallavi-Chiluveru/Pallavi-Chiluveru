@@ -5,13 +5,13 @@
 
 <p align="center">
   <a href="https://pallaviprotfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20View%20My%20Portfolio-Visit%20Now-blue?style=for-the-badge" alt="Portfolio">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-blue?style=for-the-badge" />
+  </a>
+  
+  <a href="./Pallavi_Chiluveru_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄%20Resume-View-success?style=for-the-badge" />
   </a>
 </p>
-
-  <a href="./resume.pdf">
-    <img src="https://img.shields.io/badge/📄%20Resume-View%20Resume-green?style=for-the-badge" alt="Resume">
-  </a>
   
 <p align="center">
 <p>       Passionate about building scalable MERN applications, solving complex problems through DSA, and leveraging AI & Machine Learning to create real-world impact.</p>
