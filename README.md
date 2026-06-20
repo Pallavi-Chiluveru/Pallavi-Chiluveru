@@ -4,6 +4,12 @@
 <h3 align="center">B.Tech IT Student | MERN Developer | AI & ML Enthusiast</h3>
 
 <p align="center">
+  <a href="https://pallaviprotfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20View%20My%20Portfolio-Visit%20Now-blue?style=for-the-badge" alt="Portfolio">
+  </a>
+</p>
+
+<p align="center">
 <p>       Passionate about building scalable MERN applications, solving complex problems through DSA, and leveraging AI & Machine Learning to create real-world impact.</p>
 
 </p>
