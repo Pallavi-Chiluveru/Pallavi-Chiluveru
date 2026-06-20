@@ -15,6 +15,12 @@
 </p>
 
 
+  <a href="./resume.pdf">
+    <img src="https://img.shields.io/badge/📄%20Resume-View%20Resume-green?style=for-the-badge" alt="Resume">
+  </a>
+  
+</p>
+
 
 <hr>
 
