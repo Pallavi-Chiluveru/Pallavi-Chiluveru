@@ -7,6 +7,7 @@
   <a href="https://pallaviprotfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-blue?style=for-the-badge" />
   </a>
+  
   <br>
   <a href="./Pallavi_Chiluveru_Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/📄%20Resume-View-success?style=for-the-badge" />
