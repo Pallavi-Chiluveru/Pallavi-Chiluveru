@@ -92,9 +92,11 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pallavi-Chiluveru&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pallavi-Chiluveru&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Pallavi-Chiluveru&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Pallavi-Chiluveru&theme=tokyonight&cache_seconds=1800)
+
+
 
 ## 📈 Contribution Activity
 
