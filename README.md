@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://pallaviprotfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-blue?style=for-the-badge" />
   </a>
   
   <br>
