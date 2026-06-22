@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pallavi</h1>
 <h3 align="center">B.Tech IT Student | MERN Developer | AI & ML Enthusiast</h3>
 <p align="center">
-<p>       Passionate about building scalable MERN applications, solving complex problems through DSA, and leveraging AI & Machine Learning to create real-world impact.</p>
-
+<p>Passionate about building scalable MERN applications, solving complex problems through DSA, and leveraging AI & Machine Learning to create real-world impact.</p
 </p>
 
 <p align="center">
