@@ -3,9 +3,12 @@
   <img src="./bannere.svg" width="100%">
 </p>
 
+<hr>
+
 <p align="center">
 <p>Passionate about building scalable MERN applications, solving complex problems through DSA, and leveraging AI & Machine Learning to create real-world impact.</p>
 
+<hr>
 
 <p align="center">
   <a href="https://pallaviprotfolio.netlify.app/" target="_blank">
