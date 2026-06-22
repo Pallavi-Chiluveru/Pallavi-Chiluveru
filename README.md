@@ -1,5 +1,7 @@
 
-
+<p align="center">
+  <img src="./banner.svg" width="100%">
+</p>
 
 <p align="center">
 <p>Passionate about building scalable MERN applications, solving complex problems through DSA, and leveraging AI & Machine Learning to create real-world impact.</p>
