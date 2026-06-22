@@ -1,44 +1,4 @@
 
-<svg width="1200" height="300" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0f172a"/>
-      <stop offset="50%" style="stop-color:#1e293b"/>
-      <stop offset="100%" style="stop-color:#0f172a"/>
-    </linearGradient>
-  </defs>
-
-  <rect width="1200" height="300" fill="url(#bg)" rx="20"/>
-
-  <text x="60" y="110"
-        font-family="Arial, sans-serif"
-        font-size="42"
-        font-weight="bold"
-        fill="#ffffff">
-        Pallavi Chiluveru
-  </text>
-
-  <text x="60" y="155"
-        font-family="Arial, sans-serif"
-        font-size="24"
-        fill="#38bdf8">
-        MERN Developer • AI & ML Enthusiast
-  </text>
-
-  <text x="60" y="200"
-        font-family="Arial, sans-serif"
-        font-size="20"
-        fill="#cbd5e1">
-        React • Node.js • Java • Python • DSA
-  </text>
-
-  <text x="60" y="240"
-        font-family="Arial, sans-serif"
-        font-size="18"
-        fill="#94a3b8">
-        Building scalable applications & solving real-world problems
-  </text>
-</svg>
 
 
 <p align="center">
