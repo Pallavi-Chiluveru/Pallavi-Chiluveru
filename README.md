@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./bannerr.svg" width="100%">
+  <img src="./bannere.svg" width="100%">
 </p>
 
 <p align="center">
