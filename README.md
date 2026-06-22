@@ -21,13 +21,9 @@
 
 <hr>
 
-
-
-
 ## 🌐 Connect With Me
-
 <p align="center">
-
+  
 <a href="https://www.linkedin.com/in/pallavi-chiluveru" target="_blank" style="margin-right:12px;">
 <img src="https://skillicons.dev/icons?i=linkedin" height="55" />
 </a>
