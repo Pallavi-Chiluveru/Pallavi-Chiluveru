@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="./bannere.svg" width="100%">
 </p>
@@ -18,6 +17,7 @@
 <hr>
 
 # 💫 About Me:
+
 🚀 Passionate about building scalable full-stack applications with the MERN stack and solving complex problems through Data Structures & Algorithms.
 
 🤝 Excited to collaborate on impactful projects in Web Development, Artificial Intelligence, and Machine Learning.
