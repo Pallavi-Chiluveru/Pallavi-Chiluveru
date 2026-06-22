@@ -1,5 +1,3 @@
-                             
-
 <h1 align="center">Hi 👋, I'm Pallavi</h1>
 <h3 align="center">B.Tech IT Student | MERN Developer | AI & ML Enthusiast</h3>
 
