@@ -1,0 +1,51 @@
+<rect x="760" y="60" rx="15" ry="15"
+      width="360" height="150"
+      fill="#161b22"
+      stroke="#30363d"
+      stroke-width="2"/>
+
+<circle cx="790" cy="85" r="6" fill="#ff5f56"/>
+<circle cx="810" cy="85" r="6" fill="#ffbd2e"/>
+<circle cx="830" cy="85" r="6" fill="#27c93f"/>
+
+<text x="860" y="90"
+      fill="#8b949e"
+      font-family="Consolas"
+      font-size="14">
+    profile.js
+</text>
+
+<text x="785" y="125"
+      fill="#58a6ff"
+      font-family="Consolas"
+      font-size="18">
+const developer = {
+</text>
+
+<text x="805" y="155"
+      fill="#c9d1d9"
+      font-family="Consolas"
+      font-size="18">
+name: "Pallavi",
+</text>
+
+<text x="805" y="180"
+      fill="#c9d1d9"
+      font-family="Consolas"
+      font-size="18">
+role: "MERN Dev",
+</text>
+
+<text x="805" y="205"
+      fill="#c9d1d9"
+      font-family="Consolas"
+      font-size="18">
+focus: "AI/ML"
+</text>
+
+<text x="785" y="230"
+      fill="#58a6ff"
+      font-family="Consolas"
+      font-size="18">
+};
+</text>
