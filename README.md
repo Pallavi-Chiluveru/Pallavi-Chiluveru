@@ -6,11 +6,6 @@
 <hr>
 
 <p align="center">
-<p>Passionate about building scalable MERN applications, solving complex problems through DSA, and leveraging AI & Machine Learning to create real-world impact.</p>
-
-<hr>
-
-<p align="center">
   <a href="https://pallaviprotfolio.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-blue?style=for-the-badge" />
   </a>
