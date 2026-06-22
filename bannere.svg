@@ -1,32 +1,87 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
-  <rect width="1200" height="300" fill="#0d1117"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280">
 
-  <text x="60" y="90"
+  <rect width="1200" height="280" fill="#0d1117"/>
+
+  <circle cx="80" cy="70" r="28" fill="#58a6ff"/>
+  <text x="66" y="80"
         fill="#ffffff"
         font-family="Arial"
-        font-size="42"
+        font-size="28"
+        font-weight="bold">
+    &lt;/&gt;
+  </text>
+
+  <text x="130" y="80"
+        fill="#ffffff"
+        font-family="Segoe UI, Arial"
+        font-size="46"
         font-weight="bold">
     Pallavi Chiluveru
   </text>
 
-  <text x="60" y="140"
+  <text x="130" y="125"
         fill="#58a6ff"
-        font-family="Arial"
+        font-family="Segoe UI, Arial"
         font-size="24">
     MERN Developer • AI &amp; ML Enthusiast
   </text>
 
-  <text x="60" y="190"
+  <line x1="130" y1="145" x2="650" y2="145"
+        stroke="#30363d"
+        stroke-width="2"/>
+
+  <text x="130" y="185"
         fill="#c9d1d9"
-        font-family="Arial"
-        font-size="20">
-    React • Node.js • Java • Python • DSA
+        font-family="Segoe UI, Arial"
+        font-size="22">
+    ⚡ Building Full Stack Applications
   </text>
 
-  <text x="60" y="235"
-        fill="#8b949e"
-        font-family="Arial"
-        font-size="18">
-    Building scalable applications &amp; solving real-world problems
+  <text x="130" y="220"
+        fill="#c9d1d9"
+        font-family="Segoe UI, Arial"
+        font-size="22">
+    🧠 Solving DSA Problems
   </text>
+
+  <text x="130" y="255"
+        fill="#c9d1d9"
+        font-family="Segoe UI, Arial"
+        font-size="22">
+    🤖 Exploring Generative AI
+  </text>
+
+  <rect x="760" y="80" rx="12" ry="12"
+        width="330" height="120"
+        fill="#161b22"
+        stroke="#30363d"/>
+
+  <text x="790" y="125"
+        fill="#58a6ff"
+        font-family="Consolas, monospace"
+        font-size="18">
+    const skills = [
+  </text>
+
+  <text x="810" y="155"
+        fill="#c9d1d9"
+        font-family="Consolas, monospace"
+        font-size="18">
+    "React", "Node.js",
+  </text>
+
+  <text x="810" y="180"
+        fill="#c9d1d9"
+        font-family="Consolas, monospace"
+        font-size="18">
+    "Java", "Python"
+  </text>
+
+  <text x="790" y="205"
+        fill="#58a6ff"
+        font-family="Consolas, monospace"
+        font-size="18">
+    ];
+  </text>
+
 </svg>
