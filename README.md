@@ -165,27 +165,36 @@ Building intelligent applications with AI, Machine Learning, and modern LLM tech
 # 🚀 Featured Projects
 
 
-### 🎓 Eduvance – Digital Learning & Evaluation Platform
+<table>
+<tr>
 
-> A modern full-stack educational platform designed to enhance learning, assessment, and student performance tracking through an intuitive and scalable interface.
+<td align="center" width="33%">
+<a href="https://github.com/Pallavi-Chiluveru/Eduvance">
+<img width="100%" src="https://img.shields.io/badge/🎓_Eduvance-View_Project-blue?style=for-the-badge"/>
+</a>
 
-#### ✨ Key Features
+Digital Learning & Evaluation Platform
 
-* 📚 Course & Curriculum Management
-* 📝 Assignment & Assessment Tracking
-* 📊 Student Performance Analytics
-* 🔐 Secure Authentication & Authorization
-* 📱 Responsive User Interface
-* ⚡ Real-time Learning Experience
+</td>
 
-#### 🛠️ Tech Stack
+<td align="center" width="33%">
+<a href="YOUR_REPO_LINK">
+<img width="100%" src="https://img.shields.io/badge/🐙_Repositories-View_Project-green?style=for-the-badge"/>
+</a>
 
-React • Node.js • Express.js • MongoDB • JWT • Vercel
+AI Powered GitHub Clone
 
-#### 🔗 Links
+</td>
 
-* 🌐 Live Demo: https://eduvance-eight.vercel.app/
-* 📂 Repository: https://github.com/Pallavi-Chiluveru/Eduvance
+<td align="center" width="33%">
+<a href="YOUR_REPO_LINK">
+<img width="100%" src="https://img.shields.io/badge/👀_ProctorX-View_Project-orange?style=for-the-badge"/>
+</a>
 
----
+AI Exam Proctoring
+
+</td>
+
+</tr>
+</table>
 
