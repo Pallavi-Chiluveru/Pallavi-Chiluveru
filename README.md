@@ -178,16 +178,17 @@ Digital Learning & Evaluation Platform
 </td>
 
 <td align="center" width="33%">
-<a href="YOUR_REPO_LINK">
-<img width="100%" src="https://img.shields.io/badge/🐙_Repositories-View_Project-green?style=for-the-badge"/>
+<a href="https://github.com/Pallavi-Chiluveru/GithubProject">
+<img width="100%" src="https://img.shields.io/badge/🐙_RepoSphere-View_Project-green?style=for-the-badge"/>
 </a>
+<a href="https://github-project-pied.vercel.app/"> <img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge"/> </a>
 
 AI Powered GitHub Clone
 
 </td>
 
 <td align="center" width="33%">
-<a href="YOUR_REPO_LINK">
+<a href="https://github.com/Pallavi-Chiluveru/Exam_Proctoring">
 <img width="100%" src="https://img.shields.io/badge/👀_ProctorX-View_Project-orange?style=for-the-badge"/>
 </a>
 
