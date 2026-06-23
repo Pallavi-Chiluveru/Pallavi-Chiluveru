@@ -2,6 +2,12 @@
   <img src="./bannere.svg" width="100%">
 </p>
 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pallavi-Chiluveru&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
+
 <hr>
 
 <p align="center">
