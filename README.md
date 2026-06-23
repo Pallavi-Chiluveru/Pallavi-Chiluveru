@@ -172,6 +172,10 @@ Building intelligent applications with AI, Machine Learning, and modern LLM tech
 <a href="https://github.com/Pallavi-Chiluveru/Eduvance">
 <img width="100%" src="https://img.shields.io/badge/🎓_Eduvance-View_Project-blue?style=for-the-badge"/>
 </a>
+<a href="https://eduvance-eight.vercel.app"> 
+<img src="https://img.shields.io/badge/🌐_Live_Demo-7C3AED?style=for-the-badge"/>
+</a>
+
 
 Digital Learning & Evaluation Platform
 
@@ -193,6 +197,10 @@ AI Powered GitHub Clone
 <a href="https://github.com/Pallavi-Chiluveru/Exam_Proctoring">
 <img width="100%" src="https://img.shields.io/badge/👀_ProctorX-View_Project-orange?style=for-the-badge"/>
 </a>
+<a href="https://exam-proctoring-flax.vercel.app/"> 
+<img src="https://img.shields.io/badge/🌐_Live_Demo-7C3AED?style=for-the-badge"/>
+</a>
+
 
 AI Exam Proctoring
 
