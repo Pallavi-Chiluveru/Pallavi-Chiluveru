@@ -30,6 +30,21 @@
 
 ⚡ Outside of tech, I enjoy yoga, music, lifelong learning, and exploring new ideas through reading and walks.
 
+
+
+## 🤖 AI & ML Interests
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-purple?style=for-the-badge)
+![LLM Applications](https://img.shields.io/badge/LLM%20Applications-green?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-orange?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-black?style=for-the-badge)
+
+<p align="center">
+Building intelligent applications with AI, Machine Learning, and modern LLM technologies.
+</p>
+
 <hr>
 
 ## 🌐 Connect With Me
