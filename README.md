@@ -181,8 +181,8 @@ Digital Learning & Evaluation Platform
 <a href="https://github.com/Pallavi-Chiluveru/GithubProject">
 <img width="100%" src="https://img.shields.io/badge/🐙_RepoSphere-View_Project-green?style=for-the-badge"/>
 </a>
-<a href="https://github-project-pied.vercel.app/"> 
-<img src="https://img.shields.io/badge/🌐_Live_Demo-06B6D4?style=for-the-badge"/>
+<a href="https://github-project-pied.vercel.app"> 
+<img src="https://img.shields.io/badge/🌐_Live_Demo-7C3AED?style=for-the-badge"/>
  </a>
 
 AI Powered GitHub Clone
