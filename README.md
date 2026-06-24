@@ -94,6 +94,56 @@ Building intelligent applications with AI, Machine Learning, and modern LLM tech
 
 <hr>
 
+
+# 🚀 Featured Projects
+
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+<a href="https://github.com/Pallavi-Chiluveru/Eduvance">
+<img width="100%" src="https://img.shields.io/badge/🎓_Eduvance-View_Project-blue?style=for-the-badge"/>
+</a>
+<a href="https://eduvance-eight.vercel.app"> 
+<img src="https://img.shields.io/badge/🌐_Live_Demo-7C3AED?style=for-the-badge"/>
+</a>
+
+
+Digital Learning & Evaluation Platform
+
+</td>
+
+<td align="center" width="33%">
+<a href="https://github.com/Pallavi-Chiluveru/GithubProject">
+<img width="100%" src="https://img.shields.io/badge/🐙_RepoSphere-View_Project-green?style=for-the-badge"/>
+</a>
+<a href="https://github-project-pied.vercel.app"> 
+<img src="https://img.shields.io/badge/🌐_Live_Demo-7C3AED?style=for-the-badge"/>
+ </a>
+
+AI Powered GitHub Clone
+
+</td>
+
+<td align="center" width="33%">
+<a href="https://github.com/Pallavi-Chiluveru/Exam_Proctoring">
+<img width="100%" src="https://img.shields.io/badge/👀_ProctorX-View_Project-orange?style=for-the-badge"/>
+</a>
+<a href="https://exam-proctoring-flax.vercel.app/"> 
+<img src="https://img.shields.io/badge/🌐_Live_Demo-7C3AED?style=for-the-badge"/>
+</a>
+
+
+AI Exam Proctoring
+
+</td>
+
+</tr>
+</table>
+
+<hr>
+
 # 💻 Tech Stack:
 
 ### 🚀 Languages
@@ -161,51 +211,3 @@ Building intelligent applications with AI, Machine Learning, and modern LLM tech
 ![Snake animation](https://raw.githubusercontent.com/Pallavi-Chiluveru/Pallavi-Chiluveru/output/github-contribution-grid-snake.svg)
 
 <hr>
-
-# 🚀 Featured Projects
-
-
-<table>
-<tr>
-
-<td align="center" width="33%">
-<a href="https://github.com/Pallavi-Chiluveru/Eduvance">
-<img width="100%" src="https://img.shields.io/badge/🎓_Eduvance-View_Project-blue?style=for-the-badge"/>
-</a>
-<a href="https://eduvance-eight.vercel.app"> 
-<img src="https://img.shields.io/badge/🌐_Live_Demo-7C3AED?style=for-the-badge"/>
-</a>
-
-
-Digital Learning & Evaluation Platform
-
-</td>
-
-<td align="center" width="33%">
-<a href="https://github.com/Pallavi-Chiluveru/GithubProject">
-<img width="100%" src="https://img.shields.io/badge/🐙_RepoSphere-View_Project-green?style=for-the-badge"/>
-</a>
-<a href="https://github-project-pied.vercel.app"> 
-<img src="https://img.shields.io/badge/🌐_Live_Demo-7C3AED?style=for-the-badge"/>
- </a>
-
-AI Powered GitHub Clone
-
-</td>
-
-<td align="center" width="33%">
-<a href="https://github.com/Pallavi-Chiluveru/Exam_Proctoring">
-<img width="100%" src="https://img.shields.io/badge/👀_ProctorX-View_Project-orange?style=for-the-badge"/>
-</a>
-<a href="https://exam-proctoring-flax.vercel.app/"> 
-<img src="https://img.shields.io/badge/🌐_Live_Demo-7C3AED?style=for-the-badge"/>
-</a>
-
-
-AI Exam Proctoring
-
-</td>
-
-</tr>
-</table>
-
