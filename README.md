@@ -99,65 +99,72 @@ Building intelligent applications with AI, Machine Learning, and modern LLM tech
 
 
 <table>
-<tr>
+  
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/Pallavi-Chiluveru/Eduvance">
+        <img width="100%" src="https://img.shields.io/badge/🎓_Eduvance-View_Project-blue?style=for-the-badge"/>
+      </a>
+      <br>
+      <a href="https://eduvance-eight.vercel.app">
+        <img src="https://img.shields.io/badge/🌐_Live_Demo-7C3AED?style=for-the-badge"/>
+      </a>
+      <br><br>
+      <b>Digital Learning & Evaluation Platform</b>
+    </td>
 
-<td align="center" width="33%">
-<a href="https://github.com/Pallavi-Chiluveru/Eduvance">
-<img width="100%" src="https://img.shields.io/badge/🎓_Eduvance-View_Project-blue?style=for-the-badge"/>
-</a>
-<a href="https://eduvance-eight.vercel.app"> 
-<img src="https://img.shields.io/badge/🌐_Live_Demo-7C3AED?style=for-the-badge"/>
-</a>
+    <td align="center" width="33%">
+      <a href="https://github.com/Pallavi-Chiluveru/GithubProject">
+        <img width="100%" src="https://img.shields.io/badge/🐙_RepoSphere-View_Project-green?style=for-the-badge"/>
+      </a>
+      <br>
+      <a href="https://github-project-pied.vercel.app">
+        <img src="https://img.shields.io/badge/🌐_Live_Demo-7C3AED?style=for-the-badge"/>
+      </a>
+      <br><br>
+      <b>AI Powered GitHub Clone</b>
+    </td>
 
+    <td align="center" width="33%">
+      <a href="https://github.com/Pallavi-Chiluveru/Exam_Proctoring">
+        <img width="100%" src="https://img.shields.io/badge/👀_ProctorX-View_Project-orange?style=for-the-badge"/>
+      </a>
+      <br>
+      <a href="https://exam-proctoring-flax.vercel.app/">
+        <img src="https://img.shields.io/badge/🌐_Live_Demo-7C3AED?style=for-the-badge"/>
+      </a>
+      <br><br>
+      <b>AI Exam Proctoring</b>
+    </td>
+  </tr>
 
-Digital Learning & Evaluation Platform
+  
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/Pallavi-Chiluveru/ATP_24EG112C54/tree/main/CAPSTONE">
+        <img width="100%" src="https://img.shields.io/badge/🖋️_Ink_Flow-View_Project-green?style=for-the-badge"/>
+      </a>
+      <br>
+      <a href="https://atp-24-eg-112-c54.vercel.app">
+        <img src="https://img.shields.io/badge/🌐_Live_Demo-7C3AED?style=for-the-badge"/>
+      </a>
+      <br><br>
+      <b>Ink Flow</b>
+    </td>
 
-</td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Pallavi-Chiluveru/Ambulance-Tracking-System">
+        <img width="100%" src="https://img.shields.io/badge/🚑_Ambulance_Tracking_System-View_Project-green?style=for-the-badge"/>
+      </a>
+      <br><br>
+      <b>Ambulance Tracking System</b>
+    </td>
 
-<td align="center" width="33%">
-<a href="https://github.com/Pallavi-Chiluveru/GithubProject">
-<img width="100%" src="https://img.shields.io/badge/🐙_RepoSphere-View_Project-green?style=for-the-badge"/>
-</a>
-<a href="https://github-project-pied.vercel.app"> 
-<img src="https://img.shields.io/badge/🌐_Live_Demo-7C3AED?style=for-the-badge"/>
- </a>
-
-AI Powered GitHub Clone
-
-</td>
-
-<td align="center" width="33%">
-<a href="https://github.com/Pallavi-Chiluveru/Exam_Proctoring">
-<img width="100%" src="https://img.shields.io/badge/👀_ProctorX-View_Project-orange?style=for-the-badge"/>
-</a>
-<a href="https://exam-proctoring-flax.vercel.app/"> 
-<img src="https://img.shields.io/badge/🌐_Live_Demo-7C3AED?style=for-the-badge"/>
-</a>
-
-
-AI Exam Proctoring
-
-</td>
-<br>
-
-<td align="center" width="33%">
-<a href="https://github.com/Pallavi-Chiluveru/ATP_24EG112C54/tree/main/CAPSTONE">
-<img width="100%" src="https://img.shields.io/badge/🖋️_Ink Flow-View_Project-green?style=for-the-badge"/>
-</a>
-<a href="https://atp-24-eg-112-c54.vercel.app"> 
-<img src="https://img.shields.io/badge/🌐_Live_Demo-7C3AED?style=for-the-badge"/>
- </a>
-</td>
-
-<td align="center" width="33%">
-<a href="https://github.com/Pallavi-Chiluveru/Ambulance-Tracking-System">
-<img width="100%" src="https://img.shields.io/badge/🚨🚑_Ambulance Tracking System-View_Project-green?style=for-the-badge"/>
-</a>
-</td>
-
-</tr>
+    <td width ="33%"></td>
+  </tr>
 </table>
 
+<hr>
 <hr>
 
 # 💻 Tech Stack:
