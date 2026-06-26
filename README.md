@@ -165,7 +165,7 @@ Building intelligent applications with AI, Machine Learning, and modern LLM tech
 </a>
 
 <br><br>
-<b>Ink Flow</b>
+<b>AI Powered Blog Application</b>
 
 </td>
 
