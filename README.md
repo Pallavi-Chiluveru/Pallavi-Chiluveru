@@ -139,6 +139,21 @@ AI Exam Proctoring
 
 </td>
 
+<td align="center" width="33%">
+<a href="https://github.com/Pallavi-Chiluveru/ATP_24EG112C54/tree/main/CAPSTONE">
+<img width="100%" src="https://img.shields.io/badge/🖋️_Ink Flow-View_Project-green?style=for-the-badge"/>
+</a>
+<a href="https://atp-24-eg-112-c54.vercel.app"> 
+<img src="https://img.shields.io/badge/🌐_Live_Demo-7C3AED?style=for-the-badge"/>
+ </a>
+</td>
+
+<td align="center" width="33%">
+<a href="https://github.com/Pallavi-Chiluveru/Ambulance-Tracking-System">
+<img width="100%" src="https://img.shields.io/badge/🚨🚑_Ambulance Tracking System-View_Project-green?style=for-the-badge"/>
+</a>
+</td>
+
 </tr>
 </table>
 
