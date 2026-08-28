@@ -236,6 +236,9 @@ Building intelligent applications with AI, Machine Learning, and modern LLM tech
 
 ## 📊 GitHub Stats
 
+![Pallavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pallavi-Chiluveru&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+<br>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Pallavi-Chiluveru&theme=tokyonight&cache_seconds=1800)
 
