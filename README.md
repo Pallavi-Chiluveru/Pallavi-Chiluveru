@@ -244,6 +244,7 @@ Building intelligent applications with AI, Machine Learning, and modern LLM tech
 
 <hr>
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pallavi-Chiluveru&theme=dark&hide_border=false&layout=compact)
 
 ## 🐍 Contribution Snake
 
