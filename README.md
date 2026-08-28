@@ -243,7 +243,7 @@ Building intelligent applications with AI, Machine Learning, and modern LLM tech
 
 ## 📈 Contribution Activity
 
-[![Pallavi's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pallavi-Chiluveru&theme=react-dark)](https://github.com/Pallavi-Chiluveru)
+[![Pallavi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pallavi-Chiluveru&theme=github-dark&hide_border=true)](https://github.com/Pallavi-Chiluveru)
 
 <hr>
 
