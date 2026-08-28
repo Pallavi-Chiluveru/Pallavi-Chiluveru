@@ -242,7 +242,7 @@ Building intelligent applications with AI, Machine Learning, and modern LLM tech
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Pallavi-Chiluveru&theme=tokyonight&cache_seconds=1800)
 
-<hr>
+<br>
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Pallavi-Chiluveru&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
