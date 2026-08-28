@@ -241,10 +241,6 @@ Building intelligent applications with AI, Machine Learning, and modern LLM tech
 
 <hr>
 
-## 📈 Contribution Activity
-
-[![Pallavi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pallavi-Chiluveru&theme=tokyo-night)](https://github.com/Pallavi-Chiluveru)
-<hr>
 
 ## 🐍 Contribution Snake
 
