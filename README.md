@@ -236,7 +236,7 @@ Building intelligent applications with AI, Machine Learning, and modern LLM tech
 
 ## 📊 GitHub Stats
 
-![Pallavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pallavi-Chiluveru&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.shion.dev/api?username=Pallavi-Chiluveru&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 <br>
 
@@ -244,7 +244,7 @@ Building intelligent applications with AI, Machine Learning, and modern LLM tech
 
 <hr>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pallavi-Chiluveru&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Pallavi-Chiluveru&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🐍 Contribution Snake
 
